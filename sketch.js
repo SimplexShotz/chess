@@ -208,7 +208,7 @@ var pieceList = {
         attacksWhereMoves: true
     },
     pawn: {
-        char: "♟",
+        char: "♙",
         firstMoves: [{
             dir: "v",
             dist: [1, 2]
